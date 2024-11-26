@@ -1,0 +1,17 @@
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/bin/Debug/net8.0/DemoLibrary
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/bin/Debug/net8.0/DemoLibrary.deps.json
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/bin/Debug/net8.0/DemoLibrary.runtimeconfig.json
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/bin/Debug/net8.0/DemoLibrary.dll
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/bin/Debug/net8.0/DemoLibrary.pdb
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/DemoLibrary.AssemblyInfoInputs.cache
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/DemoLibrary.AssemblyInfo.cs
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/DemoLibrary.csproj.CoreCompileInputs.cache
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/DemoLibrary.dll
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/refint/DemoLibrary.dll
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/DemoLibrary.pdb
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/DemoLibrary.genruntimeconfig.cache
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/ref/DemoLibrary.dll
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/DemoLibrary.csproj.AssemblyReference.cache
+/Users/amithabh_a/Projects/UnitTestUtils/DemoLibrary/obj/Debug/net8.0/DemoLibr.2AF12875.Up2Date
